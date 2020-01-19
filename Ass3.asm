@@ -1,7 +1,7 @@
 TITLE Program Project Ass3.asm
-;Ryan Lebeau - 104535367
+;Sridevi Nataraj 
 ;60-266 Assignment Three
-;02/03/2018
+
 
 INCLUDE Irvine32.inc
  
