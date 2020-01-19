@@ -1,7 +1,7 @@
 TITLE Assignment 4 (Ass4.asm)
-;Ryan Lebeau - 104535367
+;Sridevi Nataraj 
 ;60-266 Assignment Four
-;16/03/2018
+
 
 INCLUDE Irvine32.inc
 .DATA
