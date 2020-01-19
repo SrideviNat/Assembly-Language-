@@ -1,5 +1,5 @@
 TITLE Program Project Q1Assign1.asm
-;Ryan Lebeau - 104535367
+;Sridevi Nataraj
 ;60-266 Assignment One
 ;09/02/2018
 INCLUDE Irvine32.inc
