@@ -1,7 +1,6 @@
 TITLE Program Project Q2Assign1.asm
-;Ryan Lebeau - 104535367
+;Sridevi Nataraj. 
 ;60-266 Assignment One Q2
-;09/02/2018
 INCLUDE Irvine32.inc
 
 .data
